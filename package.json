@@ -1,0 +1,25 @@
+{
+  "name": "jqn.github.io",
+  "version": "0.0.1",
+  "description": "personal app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jqn/jqn/github.io.git"
+  },
+  "keywords": [
+    "joaquin",
+    "full",
+    "stack",
+    "developer"
+  ],
+  "author": "jqn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
