@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Full Stack Developer with MEAN skills | Denver | Seattle">
     <meta name="author" content="Joaquin Guardado">
+    <meta name="keywords" content="Joaquin Guardado, Colorado Springs, Drupal, developer, LAMP, Angular, Node, MEAN">
 
     <title>jQN | Full Stack Developer | UI Designer | CG Artist | Iphone Photographer</title>
 
