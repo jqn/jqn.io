@@ -3,9 +3,9 @@
 #### Flat design personal site.
 
 - Bootstrap
-- JavaScript
-- PHP
-
-
+- MongoDB
+- Express.js
+- Angular
+- Node.js
 
 ##### License MIT
