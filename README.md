@@ -2,10 +2,6 @@
 
 #### Flat design personal site.
 
-- Bootstrap
-- MongoDB
-- Express.js
-- Angular
-- Node.js
+- PHP Site Version
 
 ##### License MIT
